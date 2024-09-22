@@ -1,5 +1,6 @@
 <div id="header" align="center">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTk3ODEwZDRwZWoybjM2bno2d2Z2dThyMXI1YmE0eHE1eHpzbGV6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u3YwSm1CT4aLZ2E/giphy.webp" width="100"/>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTk3ODEwZDRwZWoybjM2bno2d2Z2dThyMXI1YmE0eHE1eHpzbGV6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u3YwSm1CT4aLZ2E/giphy.webp" width="100"/>
     <div id="badges">
         <a href="https://t.me/tralebys">
             <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="30" height="30"/>

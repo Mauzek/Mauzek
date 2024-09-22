@@ -13,7 +13,9 @@
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
   </div>
-  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/fA7rLtaJDIWEzU57CT" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+  <div align="center">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWprdWd4cnZidjluZHNiN3ZrYTI0d29sdjVlbDd5cHVpeml6YzExdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fA7rLtaJDIWEzU57CT/giphy.webp" width="535" height="300"/>
+  </div>
   
   ---
   

@@ -15,7 +15,7 @@
     </div>
     <h1>
       Здарова Чумба
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXg0dThxMWZwY3p0bnB1b2Vvc2d0Ynkzdnl1ZnV2ZW90ZWd3NDR4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Kg3qTr9nyv6LtQvhph/giphy.gif" width="30px"/> 
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXg0dThxMWZwY3p0bnB1b2Vvc2d0Ynkzdnl1ZnV2ZW90ZWd3NDR4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Kg3qTr9nyv6LtQvhph/giphy.gif" width="50"/> 
     </h1>
   </div>
   <div align="center">

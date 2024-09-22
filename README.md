@@ -1,6 +1,10 @@
 <div id="header" align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTk3ODEwZDRwZWoybjM2bno2d2Z2dThyMXI1YmE0eHE1eHpzbGV6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u3YwSm1CT4aLZ2E/giphy.webp" width="100"/>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTk3ODEwZDRwZWoybjM2bno2d2Z2dThyMXI1YmE0eHE1eHpzbGV6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u3YwSm1CT4aLZ2E/giphy.webp" width="100"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJmY2k5eWFuMHlkYms0aHd6dTZ0ZnNzYWpjMzhtbmN5czU0dDNxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XzAmby8okSGGh0LtrV/giphy.gif" width="100"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWlhcHRra2I2bTRkcjB2c2Z0aWhhbzZuNnh4d2o0bXNxdGIya2RvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HaPdTSKQwQyMXyodO3/giphy.gif" width="100"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmg4Z2ZyNm05a2hrMTd4dDFkaWlrZmI5NWhjODg4cnAwN244aWR0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aleE3EDeUbvaduEOjH/giphy.gif" width="100"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNpMHd1eXc3MWNzdGJyenZrb2Nma2dtY3FtbG12MWFiNTJlcmF3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xzCo7LcZLKRUoAlg4L/giphy.gif" width="100"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXRnM3pmamthYXN3Mm5wNWp5ZTZkYXZoYnJqd3FnbXlpeWt4cDBidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e4PBrtD9ecTf93f4HY/giphy.gif" width="100"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW52aXc5bzVtcHo3bTB3enBrZmxvNGtwbW9ta3JiczhxM3dlY2U3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ut9Q1mPQ0XBPaVfIpV/giphy.gif" width="100"/>
     <div id="badges">
         <a href="https://t.me/tralebys">
             <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="30" height="30"/>

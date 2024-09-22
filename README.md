@@ -19,7 +19,7 @@
     </h1>
   </div>
   <div align="center">
-    <img src="https://c.tenor.com/tBbl_kMfqIAAAAAd/tenor.gif" width="535" height="300"/>
+    <img src="https://c.tenor.com/tBbl_kMfqIAAAAAd/tenor.gif"/>
   </div>
   
   ---

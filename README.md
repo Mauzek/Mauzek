@@ -30,7 +30,7 @@
 
 - :film_strip: Пишу рецензии к фильмам и сериалам.
 
-- :zap: Изучаю web в надежде на стражировку в Yandex.
+- :zap: Изучаю web в надежде на стражировку.
 
 - :mailbox:Связь со мной: [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/tralebys)
 

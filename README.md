@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/39TmHmGC/aishot-1315-mini.jpg" width="100%"/>
+<img src="https://i.ibb.co/WWqMHZNt/aishot-1315-mini.jpg" width="100%"/>
 
 ### 👨‍💻 Обо мне
 Я **Frontend-разработчик** (также пробую себя во **Fullstack**) из города Белгород.   

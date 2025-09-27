@@ -10,11 +10,11 @@
 ### 📫 Контакты  
 <div align="left">
   <a href="https://t.me/tralebys">
-    <img src="https://shorturl.at/KXWaA" alt="Telegram"  height="25"/>
+    <img src="https://camo.githubusercontent.com/aca8b1afcc00da793d1fa5e36788b55ef9c4e19e5c4f0eb2fce3e30e15caa3c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3236613465343f7374796c653d666f722d7468652d6261646765266c6f676f3d54656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram"  height="25"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://vk.com/tralebys">
-    <img src="https://shorturl.at/UprWV" alt="VK" height="25"/>
+    <img src="https://camo.githubusercontent.com/cf93877341a37515e3e34365a08749f96d7cea346d33a674db1baf867823c147/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f564b2d3030313166663f7374796c653d666f722d7468652d6261646765266c6f676f3d766b266c6f676f436f6c6f723d7768697465" alt="VK" height="25"/>
   </a>
 </div>
 
